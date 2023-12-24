@@ -1,6 +1,6 @@
-# Habib website
+# Habib's website
 
-> *Copyright 2023 [Habib Suite](https://habibsuite.github.io/). Licensed under the MIT license.*
+> *Copyright 2023 [Habib](https://habibsuite.github.io/). Licensed under the MIT license.*
 
 habib's website [https://habibsuite.github.io](https://habibsuite.github.io)
 
