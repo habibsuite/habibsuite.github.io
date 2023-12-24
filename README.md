@@ -1,8 +1,8 @@
-# Dean Attali's website
+# Habib website
 
 > *Copyright 2023 [Habib Suite](https://habibsuite.github.io/). Licensed under the MIT license.*
 
-Dean Attali's website [https://habibsuite.github.io](https://habibsuite.github.io)
+habib's website [https://habibsuite.github.io](https://habibsuite.github.io)
 
 The theme for this website has been open-sourced as [Beautiful Jekyll](https://beautifuljekyll.com/).
 
